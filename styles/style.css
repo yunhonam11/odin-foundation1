@@ -1,0 +1,311 @@
+*
+{
+    overflow: hidden;
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+.header-link1
+{
+    color: #242124;
+    text-decoration: none;
+    margin-top: 15px;
+    margin-left: 21px;
+    display: inline-block;
+}
+
+.header-link1:hover
+{
+    text-decoration: underline;
+}
+
+.header-link2
+{
+    color: #242124;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: -25px;
+    margin-left: 21px;
+}
+
+.header-link2:hover
+{
+    text-decoration: underline;
+}
+
+.header-link3
+{
+    color: #242124;
+    text-decoration: none;
+    margin-top: 15px;
+    margin-left: 935px;
+}
+
+.header-link3:hover
+{
+    text-decoration: underline;
+}
+
+.header-link4
+{
+    color: #242124;
+    text-decoration: none;
+    margin-top: 15px;
+    margin-left: 21px;
+}
+
+.header-link4:hover
+{
+    text-decoration: underline;
+}
+
+.google-apps
+{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.sign-in
+{
+    height: 37px;
+    width: 100px;
+    border: none;
+    font-size: 13px;
+    cursor: pointer;
+    color: white;
+    background-color: #1E90FF;
+    padding: 5px;
+    margin-left: 58px;
+    border-radius: 4px;
+}
+
+.google-logo
+{
+    width: 16rem;
+    height: 6rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 7rem;
+}
+
+.search-engine
+{
+    font-size: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.8rem;
+    height: 40px;
+    width: 400px;
+    border-radius: 19px;
+    border-width: thin;
+    border: 0.25px solid silver;
+    padding-left: 50px;
+    padding-right: 100px;
+}
+
+.search-engine:hover
+{
+    border: 1px solid silver;
+    box-shadow: 0 0 5px silver;
+}
+
+.search-engine:focus
+{
+    outline: none;
+}
+
+.input-icon i
+{
+    position: absolute;
+    color: silver;
+    margin-top: 43px;
+    margin-left: 26rem;
+}
+
+.google-mic
+{
+    position: absolute;
+    width: 45px;
+    height: 55px;
+    margin-top: 22px;
+    margin-left: 890px;
+    cursor: pointer;
+}
+
+.wipe-text
+{
+    position: absolute;
+    font-family: Consolas, monaco, monospace;
+    font-size: 16px;
+    color: gray;
+    margin-top: 34px;
+    margin-left: 855px;
+    display: none;
+}
+
+.fa-times-thin:before 
+{
+	content: '\00d7';
+}
+
+.wipe-text:hover
+{
+    cursor: pointer;
+}
+
+.verticalLine 
+{
+    display: none;
+    font-size: 25px;
+    margin-left: 886px;
+    margin-top: 35px;
+    position: absolute;
+    color: gray;
+}
+
+.search-button
+{
+    height: 37px;
+    width: 130px;
+    border: none;
+    font-size: 13px;
+    cursor: pointer;
+    color: #242124;
+    background-color: #F5F5F5;
+    padding: 5px;
+    margin-left: 540px;
+    border-radius: 4px;
+}
+
+.lucky-button
+{
+    height: 37px;
+    width: 130px;
+    border: none;
+    font-size: 13px;
+    cursor: pointer;
+    color: #242124;
+    background-color: #F5F5F5;
+    padding: 5px;
+    margin-left: 9px;
+    margin-top: 30px;
+    border-radius: 4px;
+}
+
+.footer-bar
+{
+    width: 110%;
+    margin-top:176px;
+    margin-left:-10px;
+    height: 50px;
+    display: block;
+    border-top: 1px solid #D3D3D3;
+    background-color: #F5F5F5;
+}
+
+.footer-link1
+{
+    color: #696969;
+    text-decoration: none;
+    margin-top: 17px;
+    margin-left: 40px;
+    display: inline-block;
+}
+
+.footer-link1:hover
+{
+    text-decoration: underline;
+}
+
+.footer-link2
+{
+    color: #696969;
+    text-decoration: none;
+    margin-top: 17px;
+    margin-left: 21px;
+    display: inline-block;
+}
+
+.footer-link2:hover
+{
+    text-decoration: underline;
+}
+
+.footer-link2
+{
+    color: #696969;
+    text-decoration: none;
+    margin-top: 17px;
+    margin-left: 25px;
+    display: inline-block;
+}
+
+.footer-link2:hover
+{
+    text-decoration: underline;
+}
+
+.footer-link3
+{
+    color: #696969;
+    text-decoration: none;
+    margin-top: 17px;
+    margin-left: 25px;
+    display: inline-block;
+}
+
+.footer-link3:hover
+{
+    text-decoration: underline;
+}
+
+.footer-link4
+{
+    color: #696969;
+    text-decoration: none;
+    margin-top: 17px;
+    margin-left: 750px;
+    display: inline-block;
+}
+
+.footer-link4:hover
+{
+    text-decoration: underline;
+}
+
+.footer-link5
+{
+    color: #696969;
+    text-decoration: none;
+    margin-top: 17px;
+    margin-left: 25px;
+    display: inline-block;
+}
+
+.footer-link3:hover
+{
+    text-decoration: underline;
+}
+
+.footer-link6
+{
+    color: #696969;
+    text-decoration: none;
+    margin-top: 17px;
+    margin-left: 25px;
+    display: inline-block;
+}
+
+.footer-link3:hover
+{
+    text-decoration: underline;
+}
+
