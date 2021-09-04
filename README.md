@@ -7,3 +7,6 @@ also features the "delete all" icon functionality of the original Google homepag
 This is my take on the first project assignment found on the Odin Project's Foundation course.
 https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css
 This application is made with HTML, CSS, and Javascript.
+
+Link to live website:
+https://yunhonam11.github.io/odin-foundation1/index.html
