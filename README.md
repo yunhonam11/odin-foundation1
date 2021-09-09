@@ -1,4 +1,5 @@
 The Google Project
+
 This application is a recreation of Google's homepage. In addition to design, this application
 also features the "delete all" icon functionality of the original Google homepage search engine.
 
